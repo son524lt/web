@@ -1,5 +1,5 @@
 let h = 1080, w = 1920;
-let densityArray = "$@B%8&WM#oahkbdpqwmZO0QLCJUYXzcvunxrjftIil1/\\|{}[]?()!*+~-\"^;:,`'___...       ";
+let densityArray = "$@B%8&WM#oahkbdpqwmZO0QLCJUYXzcvunxrjftIil1/\\|{}[]?()!*+~-\"^;:,`'___...    ";
 let scale = 0.5;
 let video = document.getElementById("videoInput");
 video.width = 640;
